@@ -1,11 +1,29 @@
 a.btn.btn-primary.btn-xl.page-scroll {
     border-radius: 0px; 
-    padding: 15px 300px
+    padding: 15px 400px
 }
  section#about.bg-primary {
  	background-color: #000000;
  }
 
-a.page-scroll.btn.btn-default.btn-xl.sr-button {
-  color: #F25E38;
+
+.red_text{
+	color: #f25e38;
+}
+
+ @media (max-width: 300px) {
+    .box{
+      background-color: orange;
+    }
+}
+
+ @media (min-width: 301px) and (max-width: 400px) {
+    .box{
+      background-color: green;
+    }
+}
+@media (min-width: 401px) {
+    .box{
+      background-color: purple;
+    }
 }
