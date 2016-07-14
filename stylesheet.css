@@ -5,3 +5,7 @@ a.btn.btn-primary.btn-xl.page-scroll {
  section#about.bg-primary {
  	background-color: #000000;
  }
+
+a.page-scroll.btn.btn-default.btn-xl.sr-button {
+  color: #F25E38;
+}
