@@ -2,3 +2,6 @@ a.btn.btn-primary.btn-xl.page-scroll {
     border-radius: 0px; 
     padding: 15px 300px
 }
+ section#about.bg-primary {
+ 	background-color: #000000;
+ }
